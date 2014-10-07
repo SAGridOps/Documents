@@ -4,9 +4,12 @@ SAGrid Strategic plan for SANREN Competency Area.
 
 The South African National Grid (SAGrid) is a collaboration of universities, national laboratories and research groups, to operate a distributed e-Infrastructure[^cyberinfrastructure] which together form a Joint Research Unit (JRU)[^JRU]. A JRU agreement, in the form of an MoU between the constituent parties, provides the framework under which the activities of SAGrid are coordinated and executed. SAGrid is thus a collaborative umbrella project, operating in the area of e-Science services and infrastructure, as well as related support structures. 
 
-<!--  how doe SAGrid fit into NICI --> 
+<!--  how does SAGrid fit into NICI --> 
+The NICI framework adopted in 2014 identifies SAGrid as a necessary component for cyberinfrastructure in South Africa. The role of SAGrid and strategy adopted to actualise the recommendations of the NICI report are described in this document and references contained therein. The interaction and relationship between other components of NICI are also described.
 
-Given the NICI framework 
+<!-- how does SAGrid fit into AAROC -->
+
+
 
 # Mission
 
@@ -20,6 +23,9 @@ Primary goals of the initiative are to :
 2. in specifically identified regions beyond the borders of the country.
 3. A further goal is to participate and provide support, by integrating and consolidating the parties’ resources and thereby consolidating the existing computing and grid resources in the country, to common research activities.
 4. Eventually, the parties wish to establish and maintain official links with international grid infrastructure and related projects.
+
+## Interaction and roles with respect to NICI components (CHPC, DIRISA, SANREN)
+
 
 ## Infrastructure Coordination 
 
@@ -45,6 +51,16 @@ Automation/DevOps
 
 ## Support Services
 
+### Monitoring
+
+### Technical Support
+
+### Documentation and Procedures
+
+### Reporting and Accounting
+
+
+
 ## Training
 
 
@@ -60,11 +76,23 @@ HTC platform
 
 ## Data
 
+### Data storage
+
+### Data sharing 
+
+### Data discovery 
+
+### Data movement
+
 
 ## Identity 
 
 
 ## Collaboration
+
+### Science Gateways
+
+### Software Development
 
 
 
