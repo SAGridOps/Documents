@@ -14,6 +14,9 @@ Although SAGrid is a federation, certain activities fall within the direct remit
 <!-- how does SAGrid fit into AAROC -->
 There are other NGIs[^NGI] in Africa, in various stages of maturity and development, which SAGrid collaborates and peers with to form the Africa-Arabia Regional Operations Centre[^AAROC]. AAROC is a regional coordination point which has been designed to allow interoperability between national and regional e-Infrastructures. SAGrid is the coordinating entity of the ROC.
 
+<!-- What is this document all about ?-->
+This document describes the current mission, roles and activities of the South African National Grid, and proposes a strategy for achieving the goals and mission of the collaboration as well as a simplistic business model. Particular emphasis will be placed on the coordination and research and development roles which are understood in the SANREN competency area of Meraka, with respect to the NICI components and the wider e-Science communities. The document will as far as possible remain discipline-agnostic, due to the cross-cutting nature of the infrastructure.
+
 # Mission
 
 SAGrid's mission is to increase the capability and functionality of existing or future computing resources and services in the Republic of South Africa, as well as providing leadership and support through collaborative projects to regional initiatives. This mission is motivated by central importance to scientific research held by e-Science tools, and the primary  is to ***support all forms of research dependent on these services.***
@@ -30,7 +33,7 @@ Further goals of the initiative are to **participate** and **provide support**, 
 
 ## Interaction and roles with respect to NICI components (CHPC, DIRISA, SANREN)
 
-The Meraka Institute of the CSIR[^CSIR] has played a central role in the development of the South African national cyberinfrastructure projects. The Centre for High-Performance Computing[^CHPC], the high-capacity South African National Research Network (SANREN)[^SANREN] and more recently, the Data-Intensive Research Infrastructure for South Africa (DIRISA)[^DIRISA]. Merak also coordinates the national grid. SAGrid considers HPC and data centres *resource providers*, and has the role of enabling resource sharing between them. Virtual Research Communities (VRCs) are thus, through the services offered by SAGrid and AAROC, able to use any combination of resources provided by the relevant sites. The infrastructure coordination is thus an integrative, enabling activit and as such acts as a kind of "glue" between various resource providers (including its own constituents) and  large cyberinfrastructure projects (including NICI and other e-Infrastructure providers). 
+The Meraka Institute of the CSIR[^CSIR] has played a central role in the development of the South African national cyberinfrastructure projects. The Centre for High-Performance Computing[^CHPC], the high-capacity South African National Research Network (SANREN)[^SANREN] and more recently, the Data-Intensive Research Infrastructure for South Africa (DIRISA)[^DIRISA]. Meraka also coordinates the national grid. SAGrid considers HPC and data centres *resource providers*, and has the role of enabling resource sharing between them. Virtual Research Communities (VRCs) are thus, through the services offered by SAGrid and AAROC, able to use any combination of resources provided by the relevant sites. The infrastructure coordination is thus an integrative, enabling activities and as such acts as a kind of "glue" between various resource providers (including its own constituents) and  large cyberinfrastructure projects (including NICI and other e-Infrastructure providers). 
 
 The role of SAGrid, particularly in respect to core cyberinfrastructure is to
   
@@ -40,13 +43,26 @@ The role of SAGrid, particularly in respect to core cyberinfrastructure is to
 > to use as many services as necessary <br>
 > in an easy, efficient way. <br>
 
-## Infrastructure Coordination 
+We expand further on these roles before discussing in detail the activities which are entailed.
 
-The mission of the SAGrid JRU is to act as the decision-making body of the federation, regarding long-term and mission-critical decisions. The JRU 
+## Infrastructure Coordination role
 
-## Infrastructure Operation
+The infrastructure coordination role of SAGrid has the responsibility to ensure interoperability and coherence in site operations for the collaborative platform.
+
+## Infrastructure Operation role
+
+SAGrid's role in infrastructure operation is to
+
+  1. Core services are available and reliably provided according to the resource infrastructure provider SLA
+  1. Site services are operating according to the resource provider OLA.
+
+## Infrastructure Development role
+
+## Service Development role
 
 #  Strategy
+
+In order to fulfil its mission
 
 ## Infrastructure Coordination
 
@@ -73,10 +89,14 @@ Automation/DevOps
 ### Reporting and Accounting
 
 
-
 ## Training
 
 ## Research and Development
+
+## Business Development
+
+## Community Engagement
+
 
 # Business Plan 
 
